@@ -3,3 +3,11 @@
 	 display: table-caption;
   text-align: center;
 } */
+
+.table{
+	border:1px solid rgb(0, 0, 0);	
+}
+
+.table th,td{
+	border:1px solid rgb(0, 0, 0);
+}
